@@ -73,8 +73,7 @@ nav a.active {
     nav {
         position: absolute;
         display: none;
-        /* top: 100%; */ /* Remove this line */
-        top: 80px; /* Or a value that works with your header's height */
+        top: 80px; 
         right: 0;
         width: 60%;
         border-left: 3px solid teal;
